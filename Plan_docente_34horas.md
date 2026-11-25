@@ -66,7 +66,7 @@ El alumnado trabajará sobre un proyecto propio organizado en cinco bloques:
 
 ## 1er Bloque: Estrategia (2 clases)
 
-### 1ª sesion: Contexto estratégico
+### 1ª sesión: Contexto estratégico
 
 **Previo a la sesión:** el alumnado deberá acudir a al primera sesión con una idea de proyecto. Esta idea servirá como hilo conductor de todo el curso. No hace falta que esté desarrollada. 
 
@@ -80,18 +80,18 @@ En la primera sesión formará, a tarvés de un trabajo manual, crearemos un con
 
 **Resultado de la sesión:** Un espacio de producto que dará al agente el espacio contextual, organizado y curado para poder entender nuestra intención y recomendar avances.
 
-### Clase 2 · Product Discovery agéntico
+### 2ª sesión: Product Discovery agéntico
 
 Utilizar el contexto estratégico como materia prima para que diseñador y agentes colaboren en El alumnado retomará el primer JTBD para identificar qué problemas merece la pena abordar, contrastar sus supuestos con productos de referencia y priorizar oportunidades de diseño.
 
 - Analizará funcionalidades de competidores y referencias mediante scrapping agéntico con Firecrawl.
 - Construirá un Opportunity Solution Tree que los agentes usarán para identificar y priorizar oportunidades.
 
-**Resultado de la sesión.** Un primer JTBD y sus enunciados de problema refinados, una protopersona revisada, un análisis funcional de referencias y un árbol de oportunidades que orienta la fase de arquitectura visual.
+**Resultado de la sesión:** Un primer JTBD y sus enunciados de problema refinados, una protopersona revisada, un análisis funcional de referencias y un árbol de oportunidades que orienta la fase de arquitectura visual.
 
-## Bloque 2 — Arquitectura (2 clases)
+## 2º Bloque: Arquitectura (2 clases)
 
-### Clase 3 · Creación del sistemas de diseño
+### 3ª sesión: Creación del sistemas de diseño
 
 Estructurar las decisiones de UI de manera que puedan ser comprendidas y utilizadas tanto por diseñadores como por agentes generativos.
 
@@ -101,9 +101,9 @@ Estructurar las decisiones de UI de manera que puedan ser comprendidas y utiliza
 - Definirá estilos y variables en Figma 
 - Establecerá patrones de interfaz
 
-**Resultado:** sistema de diseño simple, documentado, creado y reinterpretable por agentes.
+**Resultado de la sesión:** sistema de diseño simple, documentado, creado y reinterpretable por agentes.
 
-### Clase 4 ·  Entidades y modelo de datos
+### 4ª sesión: Entidades y modelo de datos
 
 Transformar el recorrido de usuario en flujo interactivo con las entidades básicas ya diseñadas e implementadas.
 
@@ -113,11 +113,11 @@ Transformar el recorrido de usuario en flujo interactivo con las entidades bási
 - Creará registros de ejemplo.
 - Vinculará el modelo con las pantallas: datos mostrados, entradas del usuario y operaciones de consulta o modificación.
 
-**Resultado:** modelo de información y comportamiento que populará el producto a lo largo de la construcción del mismo.
+**Resultado de la sesión:** modelo de información y comportamiento que populará el producto a lo largo de la construcción del mismo.
 
-## Bloque 3 — Formalización (2 clases)
+## 3er Bloque: Formalización (2 clases)
 
-### Clase 5 · Views en Figma
+### 5ª sesión: Views en Figma
 
 Convertir el comportamiento y la arquitectura definidos previamente en una interfaz consistente, utilizando Figma AI y Figma MCP.
 
@@ -126,9 +126,9 @@ Convertir el comportamiento y la arquitectura definidos previamente en una inter
 - Diseñará los estados de carga, vacío, validación, error y recuperación pertinentes para cada experiencia.
 - Utilizará referencias visuales y herramientas de exploración creativa como Mobbin, Refero,  Google Stitch o similares si fuera necesario.
 
-**Resultado:** recorrido principal formalizado en Figma mediante un sistema de diseño.
+**Resultado de la sesión:** recorrido principal formalizado en Figma mediante un sistema de diseño.
 
-### Clase 6 · Convertir procesos de diseño en skills
+### 6ª sesión: Convertir procesos de diseño en skills
 
 Transformar procedimientos habituales de UI/UX en instrucciones reutilizables que permitan a los agentes ejecutar tareas siguiendo los criterios del diseñador.
 
@@ -138,11 +138,11 @@ Transformar procedimientos habituales de UI/UX en instrucciones reutilizables qu
 - Aprenderá donde encontrar skills prefabricadas y modifcarlas para sus usos específicos.
 - Seguirá diseñando interfaces esta vez con la involucración de skills.
 
-**Resultado:** conjunto inicial de skills que permite delegar operaciones de diseño manteniendo criterios y procesos definidos por el diseñador.
+**Resultado de la sesión:** conjunto inicial de skills que permite delegar operaciones de diseño manteniendo criterios y procesos definidos por el diseñador.
 
-## Bloque 4 — Investigación (1 clase)
+## 4º Bloque: Investigación (1 clase)
 
-### Clase 7 · UX Research agéntico
+### 7ª sesión: UX Research agéntico
 
 Convertir los supuestos e incógnitas en un plan de investigación, utilizando agentes para analizar contexto y preparar métodos sin sustituir la investigación con usuarios reales.
 
@@ -151,11 +151,11 @@ Convertir los supuestos e incógnitas en un plan de investigación, utilizando a
 - Seleccionará métodos de UX Research adecuados.
 - Aplicará cambios derivados de la invetsigación agéntica.
 
-**Resultado:** un protocolo de investigación conectado con las decisiones y preguntas surgidas durante el diseño del producto.
+**Resultado de la sesión:** un protocolo de investigación conectado con las decisiones y preguntas surgidas durante el diseño del producto.
 
-## Bloque 5 — Implementación (1 clase)
+## 5º Bloque: Implementación (1 clase)
 
-### Clase 8 · Conectar la experiencia con el código
+### 8ª sesión: Conectar la experiencia con el código
 
 Transformar el diseño en una implementación funcional utilizando agentes de programación y el contexto generado durante las sesiones anteriores.
 
@@ -165,10 +165,10 @@ Transformar el diseño en una implementación funcional utilizando agentes de pr
 - Versionará y supervisará cambios mediante Git y GitHub.
 - Usará Vercel o Github.io para publicar su producto
 
-**Resultado:** recorrido funcional implementado y conectado con datos reales o representativos manteniendo.
+**Resultado de la sesión:** recorrido funcional implementado y conectado con datos reales o representativos manteniendo.
 
-## Bloque 6 — Trabajo Final (5 clases)
+## 6º Bloque: Trabajo Final (5 clases)
 
-### Clase 9 a la 13 · Trabajo Final
+### 9ª a 13ª sesión: Trabajo Final
 
 Estas sesiones estarán destinadas integramente a la tutoría y feedback del trabajo final.
