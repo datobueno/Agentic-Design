@@ -108,12 +108,10 @@ Estructurar las decisiones de UI de manera que puedan ser comprendidas y utiliza
 Transformar el recorrido de usuario en flujo interactivo con las entidades básicas ya diseñadas e implementadas.
 
 - Identificará las entidades necesarias a partir de los JTDB  proyecto.
-- Construirá un diccionario de datos: campos, tipos, identificadores, obligatoriedad, valores permitidos y procedencia.
-- Representará las relaciones entre entidades y su cardinalidad mediante un diagrama en Mermaid.
-- Creará registros de ejemplo.
-- Vinculará el modelo con las pantallas: datos mostrados, entradas del usuario y operaciones de consulta o modificación.
+- Construirá un diccionario de datos: campos, tipos, identificadores, obligatoriedad, valores permitidos y procedencia
+- Creará valores de ejemplo.
 
-**Resultado de la sesión:** modelo de información y comportamiento que populará el producto a lo largo de la construcción del mismo.
+**Resultado de la sesión:** modelo de información que populará el producto.
 
 ## 3er Bloque: Formalización (2 clases)
 
@@ -128,7 +126,7 @@ Convertir el comportamiento y la arquitectura definidos previamente en una inter
 
 **Resultado de la sesión:** recorrido principal formalizado en Figma mediante un sistema de diseño.
 
-### 6ª sesión: Convertir procesos de diseño en skills
+### 6ª sesión: Creación de skills de diseño
 
 Transformar procedimientos habituales de UI/UX en instrucciones reutilizables que permitan a los agentes ejecutar tareas siguiendo los criterios del diseñador.
 
