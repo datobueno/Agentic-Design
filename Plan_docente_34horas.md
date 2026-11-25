@@ -13,8 +13,8 @@ El alumnado trabajará sobre un proyecto propio organizado en cinco bloques:
 - **Estrategia:** aprenderemos a trabajar con agentes para que nos apoye en la definición de la intención del producto a partir de una visión inicial. Construiremos un contexto compartido para que diseñador y agente puedan consultar problemas e hipótesis de diseño.
 - **Arquitectura:** estableceremos criterios atómicos de diseño para automatizar y delegar tareas en agentes de forma consistente con el sistema de diseño. Definiremos las entidades y relaciones necesarias para estructurar la información del producto.
 - **Formalización:** colaboraremos con agentes para diseñar interfaces y convertir procesos de diseño en instrucciones reutilizables.
-- **UX Research:** utilizaremos el contexto de la estrategia para que los agentes puedan generar nuevos supuestos, formular preguntas y preparar estrategias de investigación.
-- **Building:** conectaremos las interfaces, los datos y los flujos mediante agentes de programación.
+- **Investigación:** utilizaremos el contexto de la estrategia para que los agentes puedan generar nuevos supuestos, formular preguntas y preparar estrategias de investigación.
+- **Implementación:** conectaremos las interfaces, los datos y los flujos mediante agentes de programación.
 
 **Trabajo final:** El alumando dispone de 10 horas OnLive tutorizadas para desarrollar su proyecto final. Se recomienda usar las sesiones teóricas para ir avanzando.
 
@@ -80,7 +80,7 @@ En la primera sesión formará, a tarvés de un trabajo manual, crearemos un con
 
 **Resultado de la sesión:** Un espacio de producto que dará al agente el espacio contextual, organizado y curado para poder entender nuestra intención y recomendar avances.
 
-### 2ª sesión: Product Discovery agéntico
+### Sesion 2: Product Discovery agéntico
 
 Utilizar el contexto estratégico como materia prima para que diseñador y agentes colaboren en El alumnado retomará el primer JTBD para identificar qué problemas merece la pena abordar, contrastar sus supuestos con productos de referencia y priorizar oportunidades de diseño.
 
