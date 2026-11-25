@@ -1,4 +1,4 @@
-# AI Native Product Designer  (UI/UX)
+# Curso Agentic Product Design  (UI/UX)
 
 **Formato:** 10 sesiones de 1 h 30 min.
 
@@ -21,10 +21,9 @@ El módulo aborda el diseño de producto digital (UI/UX) con apoyo de agentes ge
 
 El enfoque de las sesiones es el de un taller proyectual. Partiremos de un proyectos de interés para el alumnado. Cada estudiante trabajará sobre un producto, servicio o experiencia visual de otra asignatura, o seleccionará un proyecto nuevo. En cada sesión se compartirán avances y se invitará al alumnado a aportar feedback constructivo. 
 
-
 ## Bloque 1 · Estrategia
 
-### Sesión 1 · Contexto estratégico para agentes, Vol. I — Intención y público del producto
+### Sesión 1 · Contexto estratégico I: Intención y público del producto
 
 **Trabajo previo a la sesión:** El alumno tendrá que venir con una idea de producto y experiencia que servirá como hilo conductor de todo el curso. Ideas sencillas que puedan desarrollarse en lenguajes HTML web. Pasarelas de pago y autenticaciones quedan fuera del encaje del curso.
 
@@ -35,7 +34,7 @@ El enfoque de las sesiones es el de un taller proyectual. Partiremos de un proye
 
 **Resultado:** espacio de trabajo con las 5W y una primera protopersona.
 
-### Sesión 2 · Contexto estratégico para agentes, Vol. II — Competidores, problemas y Jobs to Be Done
+### Sesión 2 · Contexto estratégico para agentes II: Competidores, problemas y Jobs to Be Done
 
 - Uso del MCP Firecrawl para realizar un análisis competitivo simple y extraer oportunidades de mejora de nuestro producto.
 - Formular enunciados de problema y Jobs to Be Done (JTBD) con ayuda de skills
@@ -45,7 +44,7 @@ El enfoque de las sesiones es el de un taller proyectual. Partiremos de un proye
 
 ## Bloque 2 · Arquitectura
 
-### Sesión 3 · Creación del sistema de diseño, Vol. I — Estilos y variables
+### Sesión 3 · Creación del sistema de diseño I: Estilos y variables
 
 **Trabajo previo a la sesión:** El alumno tendrá que traer una recopilación de capturas de interfaces que sirvan de referencia brand
 
@@ -55,7 +54,7 @@ El enfoque de las sesiones es el de un taller proyectual. Partiremos de un proye
 
 **Resultado:** base visual en Figma con estilos y variables listos para aplicar a los componentes.
 
-### Sesión 4 · Creación del sistema de diseño, Vol. II — Componentes y patrones de interfaz
+### Sesión 4 · Creación del sistema de diseño II: Componentes y patrones de interfaz
 
 **Trabajo previo a la sesión:** El alumno tendrá que traer una recopilación de capturas de interfaces que sirvan de referencia arquitectura visual
 
@@ -65,7 +64,7 @@ El enfoque de las sesiones es el de un taller proyectual. Partiremos de un proye
 
 **Resultado:** sistema de diseño básico y documentado, con componentes y un patrón reutilizable por el equipo y los agentes.
 
-### Sesión 5 · Entidades de producto — Diccionario de datos
+### Sesión 5 · Entidades de producto
 
 - Revisar el JTBD y el recorrido principal para identificar la información que necesita el producto.
 - Identificar las entidades y diseñarlas mediante skills para posteriormente editarlas a mano.
@@ -75,7 +74,7 @@ El enfoque de las sesiones es el de un taller proyectual. Partiremos de un proye
 
 ## Bloque 3 · Formalización
 
-### Sesión 6 · Diseñar en Figma, Vol. I — Composición del recorrido principal
+### Sesión 6 · Diseñar en Figma I: Composición del recorrido principal
 
 - Revisar el recorrido, los patrones y el modelo de datos. Si se necesita explorar una solución visual, utilizar Mobbin, Refero o Google Stitch para contrastar propuestas.
 - Componer las pantallas principales en Figma con ayuda de Figma AI y Figma MCP, aplicando el sistema de diseño e incorporando contenidos y campos del modelo de datos.
@@ -83,7 +82,7 @@ El enfoque de las sesiones es el de un taller proyectual. Partiremos de un proye
 
 **Resultado:** prototipo en Figma con las pantallas del recorrido principal enlazadas.
 
-### Sesión 7 · Diseñar en Figma, Vol. II — Estados y recuperación
+### Sesión 7 · Diseñar en Figma II: Estados y recuperación
 
 - Identificar dónde se necesitan estados de carga, vacío, validación, error y recuperación.
 - Diseñar en Figma los estados pertinentes con los componentes y patrones del sistema. Definir cómo continúa el usuario después de un error.
@@ -91,7 +90,7 @@ El enfoque de las sesiones es el de un taller proyectual. Partiremos de un proye
 
 **Resultado:** recorrido principal en Figma con los estados necesarios para llevarlo a código.
 
-### Sesión 8 · Diseñar en Figma, Vol. III — Preparar el prototipo para la implementación
+### Sesión 8 · Diseñar en Figma III: Preparar el prototipo para la implementación
 
 - Revisar cómo se adapta el diseño a distintos anchos de pantalla.
 - Comprobar el contraste, las zonas táctiles y el foco de teclado.
@@ -102,7 +101,7 @@ El enfoque de las sesiones es el de un taller proyectual. Partiremos de un proye
 
 ## Bloque 4 · Implementación
 
-### Sesión 9 · Conectar con el código, Vol. I —  Publicar entidades y componentes en Storybook
+### Sesión 9 · Conectar con el código I:  Publicar entidades y componentes en Storybook
 
 - Usar **Figma MCP** para implementar los componentes en y entidades en Storybook
 - Probar el comportamiento de las entidades en Storybook.
@@ -110,11 +109,12 @@ El enfoque de las sesiones es el de un taller proyectual. Partiremos de un proye
 
 **Resultado**  
 Componentes probados con datos de ejemplo y listos para usarse en las pantallas.
-### Sesión 10 · Conectar con el código, Vol. II — Implementar recorrido
+
+### Sesión 10 · Conectar con el código II: Implementar recorrido
 
 - Utilizar los diseños de Figma y las notas de implementación para pasar a código las pantallas.
 - Crear datos de ejemplo o reales, mediante una API o una hoja de cálculo. Se podrá usar Supabase si se require de una base de datos
-- Publicar en **Vercel** o **GitHub Pages** 
+- Publicar en **Vercel** o **GitHub Pages**
 
 **Resultado**  
 El recorrido principal de nuestro producto funcional, publicado y accesible por cualquiera. 

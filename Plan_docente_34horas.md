@@ -1,4 +1,6 @@
-34 horas repartidas en 13 sesiones
+# Módulo Agentic Product Design  (UI/UX)
+
+**Formato:** 13 sesiones, 34 horas
 
 ## Introducción
 
@@ -18,8 +20,6 @@ El alumnado trabajará sobre un proyecto propio organizado en cinco bloques:
 
 ***IMPORTANTE: Este programa usa de forma extensiva diferentes modelos de inteligencia artificial para alcanzar sus objetivos. Se recomienda atender las clases con suscripciones de pago de los modelos que los asistentes quieran utilizar. (ChatGPT / Claude / Gemini y Figma). El alumnado puede decidir adquirir licencias de Mobbin o Refero para acceder al MCP de diseño, con el fin de agilziar su proceso creativo.***
 
-
-
 ## Objetivos
 
 - Definir la estrategia del producto: concretar su intención, usuarios, problema, alcance y resultados esperados.
@@ -29,8 +29,6 @@ El alumnado trabajará sobre un proyecto propio organizado en cinco bloques:
 - Preparar investigación con usuarios: identificar preguntas y seleccionar métodos, utilizando IA para elaborar entrevistas y pruebas de usabilidad.
 - Conectar datos, diseño y código: definir entidades y relaciones, diseñar pantallas y estados en Figma y desarrollar un recorrido funcional conectado con datos.
 
-
-
 ## Metodología
 
 - El módulo es un taller proyectual a partir de proyectos reales de interés para el alumnado.
@@ -38,8 +36,6 @@ El alumnado trabajará sobre un proyecto propio organizado en cinco bloques:
 - Cada sesión incluirá una base teórica, ampliable con otros conocimientos según las necesidades del alumnado.
 - Se compartirán regularmente avances, resultados y métodos relevantes para el aprendizaje del grupo.
 - Se invitará al alumnado a aportar opiniones y feedback constructivo sobre los trabajos de sus compañeros.
-
-
 
 ## Contenidos
 
@@ -68,8 +64,6 @@ El alumnado trabajará sobre un proyecto propio organizado en cinco bloques:
 
 **Trabajo final (Sesiones 9 a 13)**
 
-
-
 ## 1er Bloque: Estrategia (2 clases)
 
 ### 1ª sesion: Contexto estratégico
@@ -86,8 +80,6 @@ En la primera sesión formará, a tarvés de un trabajo manual, crearemos un con
 
 **Resultado de la sesión:** Un espacio de producto que dará al agente el espacio contextual, organizado y curado para poder entender nuestra intención y recomendar avances.
 
-
-
 ### Clase 2 · Product Discovery agéntico
 
 Utilizar el contexto estratégico como materia prima para que diseñador y agentes colaboren en El alumnado retomará el primer JTBD para identificar qué problemas merece la pena abordar, contrastar sus supuestos con productos de referencia y priorizar oportunidades de diseño.
@@ -96,8 +88,6 @@ Utilizar el contexto estratégico como materia prima para que diseñador y agent
 - Construirá un Opportunity Solution Tree que los agentes usarán para identificar y priorizar oportunidades.
 
 **Resultado de la sesión.** Un primer JTBD y sus enunciados de problema refinados, una protopersona revisada, un análisis funcional de referencias y un árbol de oportunidades que orienta la fase de arquitectura visual.
-
-
 
 ## Bloque 2 — Arquitectura (2 clases)
 
@@ -112,8 +102,6 @@ Estructurar las decisiones de UI de manera que puedan ser comprendidas y utiliza
 - Establecerá patrones de interfaz
 
 **Resultado:** sistema de diseño simple, documentado, creado y reinterpretable por agentes.
-
-
 
 ### Clase 4 ·  Entidades y modelo de datos
 
